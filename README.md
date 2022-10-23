@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michoelmushinsky
-- 👀 I’m interested in Python, c++
+- 👀 I’m interested in Python, JavaScript, HTML, CSS, SQL
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
